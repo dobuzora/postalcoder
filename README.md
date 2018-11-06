@@ -1,7 +1,7 @@
 postalcoder
 ===
 
-PythonでGUIアプリを試してみたいという願望から生まれた、沖縄の郵便番号検索ツール。
+Pythonの勉強会用に作成した、沖縄の郵便番号検索ツール。
 
 ## Description
 
@@ -11,11 +11,15 @@ Pythonのライブラリ`Tkiner`を使えば、GUIを簡単に作れるという
 
 ## Demo
 
+![demo](resources/demo.gif)
+
 ## Usage
+```bash
+$ python3 postalcoder.py
+```
 
 ## Install
 
-```
+```bash
 $ python3 setup.py
-$ python3 postalcoder.py
 ```
